@@ -1,5 +1,5 @@
 import React from "react";
-import RandomGif from "./study/01_random_gif";
+import RandomGif from "./components/01_RandomGif";
 
 const App = () => {
   return (
