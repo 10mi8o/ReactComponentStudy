@@ -1,10 +1,10 @@
 import React from "react";
-import TimerContainer from "./components/08_Timer/TimerContainer";
+import ApiFetch from "./components/09_ApiFetch";
 
 const App = () => {
   return (
     <>
-      <TimerContainer />
+      <ApiFetch />
     </>
   );
 };
